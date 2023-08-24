@@ -19,7 +19,7 @@ The following machine learning models are used:
  * SVM
  * Gradient Boosting
  * Neural Network
- * 
+   
 Grid search is implemented for hyperparameter tuning. Models are evaluated using accuracy, precision, recall, and ROC AUC.
 
 ## Usage
